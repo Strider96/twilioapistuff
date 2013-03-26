@@ -38,6 +38,3 @@ gem "jquery-rails", "~> 2.2.1"
 
 gem 'twilio-ruby'
 
-group :development do
-gem 'thin'
-end
